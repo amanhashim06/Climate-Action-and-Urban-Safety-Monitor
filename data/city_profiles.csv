@@ -1,0 +1,9 @@
+city_id,city,population,area_km2,green_cover_pct,avg_temperature,avg_temp_10yr,avg_aqi,flood_prone
+C001,Thiruvananthapuram,957000,214,32,27.6,27.2,50,No
+C002,Kochi,677000,95,22,28.0,27.4,70,Yes
+C003,Chennai,4646000,426,15,29.5,28.6,85,Yes
+C004,Bengaluru,8443000,741,20,24.5,23.9,80,No
+C005,Mumbai,12442000,603,14,28.2,27.3,115,Yes
+C006,Delhi,16788000,1484,21,25.8,24.4,235,No
+C007,Kolkata,4496000,185,12,27.6,26.8,155,Yes
+C008,Hyderabad,6810000,650,18,27.0,26.1,95,Yes

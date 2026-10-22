@@ -1,0 +1,49 @@
+record_id,city,date,aqi,pm25,pm10,no2,category
+A001,Thiruvananthapuram,2026-09-01,75,37.6,65.8,20.1,Moderate
+A002,Thiruvananthapuram,2026-09-04,47,22.3,41.1,19.3,Good
+A003,Thiruvananthapuram,2026-09-07,59,25.4,48.0,21.4,Moderate
+A004,Thiruvananthapuram,2026-09-10,53,25.9,60.4,21.9,Moderate
+A005,Thiruvananthapuram,2026-09-13,55,18.0,36.5,12.1,Moderate
+A006,Thiruvananthapuram,2026-09-16,35,19.2,40.7,15.7,Good
+A007,Kochi,2026-09-01,46,19.2,32.4,20.8,Good
+A008,Kochi,2026-09-04,101,46.3,83.3,23.5,Unhealthy for Sensitive Groups
+A009,Kochi,2026-09-07,69,30.3,50.7,22.9,Moderate
+A010,Kochi,2026-09-10,53,28.3,60.1,23.9,Moderate
+A011,Kochi,2026-09-13,63,30.4,57.0,19.8,Moderate
+A012,Kochi,2026-09-16,65,24.1,37.1,24.9,Moderate
+A013,Chennai,2026-09-01,82,37.8,77.8,17.8,Moderate
+A014,Chennai,2026-09-04,74,34.0,67.0,21.8,Moderate
+A015,Chennai,2026-09-07,99,45.4,,24.1,Moderate
+A016,Chennai,2026-09-10,96,45.1,74.3,32.7,Moderate
+A017,Chennai,2026-09-13,93,47.2,87.4,25.6,Moderate
+A018,Chennai,2026-09-16,69,41.2,77.2,28.8,Moderate
+A019,Bengaluru,2026-09-01,70,32.2,51.2,21.1,Moderate
+A020,Bengaluru,2026-09-04,93,36.8,76.4,28.1,Moderate
+A021,Bengaluru,2026-09-07,65,27.2,48.9,21.5,Moderate
+A022,Bengaluru,2026-09-10,72,29.1,53.5,18.9,Moderate
+A023,Bengaluru,2026-09-13,61,27.3,57.2,14.9,Moderate
+A024,Bengaluru,2026-09-16,80,33.4,57.6,27.8,Moderate
+A025,Mumbai,2026-09-01,107,54.1,98.1,30.8,Unhealthy for Sensitive Groups
+A026,Mumbai,2026-09-04,111,46.9,92.6,29.4,Unhealthy for Sensitive Groups
+A027,Mumbai,2026-09-07,123,55.2,98.4,31.7,Unhealthy for Sensitive Groups
+A028,Mumbai,2026-09-10,115,55.6,100.2,30.5,Unhealthy for Sensitive Groups
+A029,Mumbai,2026-09-13,90,43.1,75.4,19.0,Moderate
+A030,Mumbai,2026-09-16,114,55.7,96.7,26.2,Unhealthy for Sensitive Groups
+A031,Delhi,2026-09-01,224,96.3,185.2,47.1,Very Unhealthy
+A032,Delhi,2026-09-04,224,103.1,191.4,52.1,Very Unhealthy
+A033,Delhi,2026-09-07,221,94.6,168.7,57.2,Very Unhealthy
+A034,Delhi,2026-09-10,230,104.5,198.4,52.0,Very Unhealthy
+A035,Delhi,2026-09-13,235,113.4,209.2,46.1,Very Unhealthy
+A036,Delhi,2026-09-16,220,93.7,182.5,52.9,Very Unhealthy
+A037,Kolkata,2026-09-01,141,57.9,107.9,40.9,Unhealthy for Sensitive Groups
+A038,Kolkata,2026-09-04,115,53.9,96.0,34.9,Unhealthy for Sensitive Groups
+A039,Kolkata,2026-09-07,139,61.4,107.6,31.1,Unhealthy for Sensitive Groups
+A040,Kolkata,2026-09-10,174,81.6,152.6,37.8,Unhealthy
+A041,Kolkata,2026-09-13,128,56.0,106.2,32.7,Unhealthy for Sensitive Groups
+A042,Kolkata,2026-09-16,153,64.4,122.0,37.4,Unhealthy
+A043,Hyderabad,2026-09-01,113,58.3,109.9,27.3,Unhealthy for Sensitive Groups
+A044,Hyderabad,2026-09-04,94,39.9,71.4,26.7,Moderate
+A045,Hyderabad,2026-09-07,80,38.4,72.3,25.4,Moderate
+A046,Hyderabad,2026-09-10,92,38.5,67.5,25.6,Moderate
+A047,Hyderabad,2026-09-13,87,40.1,76.2,20.2,Moderate
+A048,Hyderabad,2026-09-16,95,37.4,67.4,25.9,Moderate
